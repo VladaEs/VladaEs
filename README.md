@@ -11,13 +11,13 @@ I am a Full Stack Software Developer. I am passionate about technologies and lov
 Here are a few things I've picked up along my learning journey.
 
 
-![PHP](https://img.shields.io/badge/PHP?style=for-the-badge&logo=php) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python) 
+![PHP](https://img.shields.io/badge/php?style=for-the-badge&logo=php) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python) 
   
  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)  ![React](https://img.shields.io/badge/react-DD0031?style=for-the-badge&logo=react&logoColor=white)
  
  ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
- ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![Laravel](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=Laravel&logoColor=white)
+ ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-00000F?style=for-the-badge&logo=Laravel&logoColor=white)
 
  ![c++](https://img.shields.io/badge/c++%20-%23F05033.svg?&style=for-the-badge&logo=c++&logoColor=white)  ![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white) ![BitBucket](https://img.shields.io/badge/bitbucket%20-%230047B3.svg?&style=for-the-badge&logo=bitbucket&logoColor=white)
  
@@ -37,3 +37,9 @@ Here are a few things I've picked up along my learning journey.
 
  or give some ♥ on [mail](mailto:voroninv@codeforge.org.uk).
 
+
+
+
+
+
+ 
