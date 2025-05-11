@@ -11,7 +11,7 @@ I am a Full Stack Software Developer. I am passionate about technologies and lov
 Here are a few things I've picked up along my learning journey.
 
 
-![PHP](https://img.shields.io/badge/php-F7DF1E?style=for-the-badge&logo=php) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python) 
+![PHP](https://img.shields.io/badge/php-00000F?style=for-the-badge&logo=php) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python) 
   
  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)  ![React](https://img.shields.io/badge/react-DD0031?style=for-the-badge&logo=react&logoColor=white)
  
